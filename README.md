@@ -5,6 +5,8 @@ Test UNMARS V2
 pkg install git python2
 <br>git clone https://github.com/Kmb-id/unmars
 <br>cd unmars
+<br>pip2 install requests mechanize
+<br>pip2 install bs4
 <br>python2 main.py
 
 # Salam NOOB
