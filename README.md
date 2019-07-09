@@ -7,7 +7,7 @@ pkg install git python2
 <br>cd unmars
 <br>pip2 install requests mechanize
 <br>pip2 install bs4
-<br>python2 main.py
+<br>python2 unmars.py
 
 # Salam NOOB
 KMB•ID {L4-ERROR}
