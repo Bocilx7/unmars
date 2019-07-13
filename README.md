@@ -1,5 +1,5 @@
 # unmars
-Test UNMARS v2
+Test UNMARS PY v2
 # how to install
 $ apt-get update && apt-get upgrade
 <br>$ pkg install git python2
