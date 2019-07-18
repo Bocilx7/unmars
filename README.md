@@ -6,7 +6,7 @@ $ apt-get update && apt-get upgrade
 <br>$ apt install wget curl
 <br>$ git clone https://github.com/Kmb-id/unmars
 <br>$ cd unmars
-<br>$ pip2 install requests mechanize
+<br>$ pip2 install -r requirements.txt
 <br>$ pip2 install bs4
 <br>
 <br><b>nah cari targetnya di github<br>
